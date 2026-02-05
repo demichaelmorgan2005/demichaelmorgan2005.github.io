@@ -1,0 +1,28 @@
+body {
+  background-color: #f5f5f5;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  margin-top: 40px;
+}
+
+img {
+  width: 300px;
+  margin: 20px 0;
+}
+
+p {
+  font-style: italic;
+  width: 60%;
+  margin: 0 auto 20px auto;
+}
+
+a {
+  text-decoration: none;
+  color: #0066cc;
+  font-weight: bold;
+}
